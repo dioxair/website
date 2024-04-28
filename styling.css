@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@100&display=swap");
 
 :root {
-  --border-color: lightpink;
+  --border-color: #515bc0;
 }
 
 body {
@@ -32,7 +32,7 @@ a {
   align-items: center;
 
   height: 37rem;
-  width: 28rem;
+  width: 26rem;
   border: 1px solid var(--border-color);
 
   margin: auto;
@@ -54,7 +54,7 @@ a {
   font-family: "Outfit", sans-serif;
   position: absolute;
   top: 20.5rem;
-  right: 3rem;
+  right: 2rem;
 }
 
 .lower {
